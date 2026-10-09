@@ -1,0 +1,84 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #aabbcc;
+    font-family: sans-serif;
+    font-size: 1.25rem;
+    line-height: 1.6;
+    padding: 20px 20px 20px 20px;
+}
+
+.site-header {
+   padding: 1rem 0;
+}
+
+.logo-area {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+}
+
+.logo {
+    width: auto;
+    height: 10px;
+    display: block;
+}
+
+.title-group {
+    display: flex;
+    flex-direction: column;
+}
+
+.site-title {
+    color: #03495b;
+    margin: 0;
+    font-size: 1.8rem;
+    line-height: 1.2;
+}
+
+.tagline {
+    margin: 0.2rem 0 0 0;
+    font-size: 0.95rem;
+    color: #555555;
+}
+
+.main-nav ul {
+    border: #22466c 5px solid;
+    background-color: #a7a4a4;
+    list-style-position: inside;
+    text-align: center;
+    padding: 0;
+    margin: 5px 0 5px 0;
+}
+
+<!--I will ask the teacher on how to arrange these navigators-->
+
+.separator {
+    text-align: end;
+    padding: 0px 40px 0px 0px;
+}
+
+h2 {
+    color: #22466c;
+    text-align: start;
+}
+
+p {
+    margin-block: 30px;
+}
+
+Footer ul {
+    list-style-position: inside;
+    text-align: center;
+    padding: 0;
+    margin: 0;
+}
+footer {
+    border: solid #a7a4a4 5px;
+    padding: 1px;
+    text-align: center;
+    background-color: #22466c;
+    color: #a7a4a4;
+}
