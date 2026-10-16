@@ -12,3 +12,5 @@ Below is a screenshot photo of VS Code showing the following installed extension
 
 ![Vs Code plugins Screenshort](images/vscode_scrt.png)
 
+## Task 1.4 My live page
+[Live Demo](https://RealNicdee.github.io/iyf-s12-week-01-RealNicdee)
